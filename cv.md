@@ -2,10 +2,13 @@
 
 ### Junior Front-End Developer/HTML-coder
 
+## Contact Information
+
 Kyiv, Ukraine
 https://www.linkedin.com/in/anna-sokolova-293440b9/
 https://github.com/ann-sok
 
+-----
 
 I'm a passionate web developer who finds great satisfaction in crafting websites. Right now, I'm in the process of completing a Udemy course to become a proficient frontend developer. My strengths include critical thinking, curiosity, creativity, and attention to detail. I'm interested in working as part of a team on larger and more complex projects.
 
@@ -23,7 +26,7 @@ At present, the project I am most proud of is the website for a charitable organ
 
 
 ## Experience
-****December 2019 — Present Front-End Developer • Freelance****
+**December 2019 — Present Front-End Developer • Freelance**
 
 https://bakery21-3.com/
 
