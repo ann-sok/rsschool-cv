@@ -5,7 +5,9 @@
 ## Contact Information
 
 Kyiv, Ukraine
+
 https://www.linkedin.com/in/anna-sokolova-293440b9/
+
 https://github.com/ann-sok
 
 -----
